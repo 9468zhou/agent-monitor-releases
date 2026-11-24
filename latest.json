@@ -1,11 +1,11 @@
 {
   "version": "2.0.8",
   "notes": "v2.0.8：更新源迁至公开产物仓库（修复 2.0.7 无法检查更新）",
-  "pub_date": "2026-11-24T10:13:42Z",
+  "pub_date": "2026-11-24T10:18:16Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbmp3U0JTSnBwVGxHT0h6Y3ZBTkVHVjJodkdmb0dORnZSczJNMzRLR09obHJReWV1aUpXcW1LQ0htM1NMU0hubnZqQTBMYUNEaGE0bExaTERPOTZKcFBBYUZjV3FRalFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MTYxCWZpbGU6QWdlbnQgTW9uaXRvcl8yLjAuOF94NjQtc2V0dXAuZXhlCnM0VnFDMXh6Q2JhSzQ3bk5JaENDRHFjRTk4MER4bks2aFk1aldWVTJMc0E3ZjIzMHg0emtLS1BPNGJqVnd0ZHRnbjh0UVA3QzJXcFloK00wOWdQVkN3PT0K",
-      "url": "https://gh-proxy.com/https://github.com/9468zhou/agent-monitor-releases/releases/download/v2.0.8/Agent%20Monitor_2.0.8_x64-setup.exe"
+      "url": "https://gh-proxy.com/https://github.com/9468zhou/agent-monitor-releases/releases/download/v2.0.8/AgentMonitor_2.0.8_x64-setup.exe"
     }
   }
 }
